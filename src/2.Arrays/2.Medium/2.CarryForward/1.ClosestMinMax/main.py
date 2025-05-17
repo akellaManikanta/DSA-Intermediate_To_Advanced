@@ -39,5 +39,6 @@ class Solution:
     # @param A : list of integers
     # @return an integer
     def bruteforce(self, A):
-
-    def optimised(self, A): pass
+        pass
+    def optimised(self, A):
+        pass
